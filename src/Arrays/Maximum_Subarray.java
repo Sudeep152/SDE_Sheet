@@ -3,7 +3,7 @@ package Arrays;
 public class Maximum_Subarray {
     public  static void main(String  [] args){
 
-        int  [] arr= {-2,1,-3,4,-1,2,1,-5,4};
+        int  [] arr= {7,1,5,3,6,4};
 
         System.out.println(maxSubArray(arr));
         System.out.println(maxAdavance(arr));
